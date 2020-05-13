@@ -1,6 +1,6 @@
 # mallmanager
 
-> mallmanager
+> 电商后台管理系统 v1.0
 
 ## Build Setup
 
